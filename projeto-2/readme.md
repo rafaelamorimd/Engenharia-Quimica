@@ -4,11 +4,7 @@ No sistema mostrado na figura abaixo, o reagente A é consumido produzindo o pro
 em cada um dos três reatores através de uma reação de 1 a ordem. Assume-se que a
 temperatura, o retido molar e a densidade são constantes .
 
-
-
-
-
-
+![sistema](https://github.com/rafaelamorimd/Engenharia-Quimica/blob/main/projeto-2/imgs/sstema.png)
 
 Com estas considerações em mente pode-se formular o modelo. Efetue o balanço de massa
 e o balanço de componente em cada um dos reatores obtendo as equações diferenciais Onde
@@ -27,3 +23,5 @@ Relatório:
 -Modelagem em equações diferenciais e em função de transferência(qual tipo de função de
 transferência), a F.T. resultante Ca3(s)/Cao(s) ?
 -Resultados
+
+![Resultado](https://github.com/rafaelamorimd/Engenharia-Quimica/blob/main/projeto-2/imgs/resultado.png)
